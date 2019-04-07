@@ -20,6 +20,8 @@ public class FirstClass {
 
         i += 10;
 
+        System.out.println(i);
+
     }
 
 }
