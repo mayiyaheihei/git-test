@@ -14,4 +14,12 @@ public class FirstClass {
 
     }
 
+    public void init(){
+
+        int i = 0;
+
+        i += 10;
+
+    }
+
 }
